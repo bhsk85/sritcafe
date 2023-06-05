@@ -17,18 +17,10 @@ PHP 8.0.9
 MySQL Database
 Bootstrap 5.2.3
 Footnote
-Food and shop images are included in the img folder.
-To install SRIT CAFE, follow these steps:
-Download and install XAMPP.
-Download this repository and place it in the directory (e.g., C:/xampp/htdocs/).
-Import the database file named foodcave.sql into phpMyAdmin (http://localhost/phpmyadmin) and name it foodcave.
-Start the Apache and MySQL services in XAMPP.
-Access the system using a web browser (http://localhost/SRITCAFE/).
 You can register for a customer account and log in. To log in with an admin account, click "Log in with admin account" on the login page. Use the provided credentials for admin mode access.
 For any further assistance, please contact the project members:
 Baba Hussain Shaik
 P Sushma
-M Mary Shainy
 Members
 Baba Hussain Shaik
 P Sushma
