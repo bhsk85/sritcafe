@@ -24,7 +24,7 @@ P Sushma
 Members
 Baba Hussain Shaik
 P Sushma
-M Mary Shainy
+Greeshma C
 Address: SRIT College, Anantapur, India
 
 
